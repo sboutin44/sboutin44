@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sboutin44 !
+- 👋 Hi, I’m Sebastien Boutin !
 - This is my personal GitHub for side projects.
 
 <!---
